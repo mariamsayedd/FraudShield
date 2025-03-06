@@ -5,7 +5,7 @@
 ---
 
 ## 💡 Inspiration  
-FraudShield, an AI chatbot, was built at the **GDG Fintech AI Hackathon** (our first hackathon!) to tackle Egypt’s growing financial scams and low financial literacy. Inspired by **Nsave’s mission** to provide secure saving accounts for people in unstable economies, We aimed to tackle Egypt’s critical financial challenges:  
+FraudShield, an AI chatbot, was built at the **GDG Fintech AI Hackathon** (our first hackathon!). Inspired by **Nsave’s (events' sponsor) mission** to provide secure saving accounts for people in unstable economies, We aimed to tackle Egypt’s critical financial challenges:  
 - Rising financial scams targeting vulnerable populations.  
 - Lack of financial awareness, leaving users exposed to fraud. 
 
