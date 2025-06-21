@@ -24,8 +24,10 @@ FraudShield, an AI chatbot, was built at the **GDG (Google Developer Groups) Fin
 
 ## 🔧 Tech Stack  
 - **AI Engine**: Google AI Studio + Gemini API.  
-- **Frontend**: Next.js (TypeScript + Tailwind CSS). 
-
+- **Frontend**: Next.js (TypeScript + Tailwind CSS).
+  
+## 🔗 Live Demo
+[Launch FraudShield](https://fraud-shield-gdg.vercel.app/)
 
 ## 🧠 Challenges  
 - **First-time hackers**: Learned Google AI Studio & Gemini API from scratch in 24 hours.  
