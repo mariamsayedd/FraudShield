@@ -1,12 +1,14 @@
-import * as express from "express";
-import * as cors from "cors";
+import express from "express";
+import cors from "cors";
 import chatRoutes from "./chatRoutes";
 import { config } from "./env";
 
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: "http://localhost:3000", 
+}));
 app.use(express.json());
 
 // Routes

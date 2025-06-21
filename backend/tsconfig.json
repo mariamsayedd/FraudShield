@@ -116,6 +116,8 @@
     "module": "CommonJS",
     "outDir": "./dist",
     "rootDir": "./",
-    "strict": true
+    "strict": true,
+     "esModuleInterop": true,
+    "moduleResolution": "node"
   }
 }

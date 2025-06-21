@@ -1,6 +1,6 @@
 import app from "./app";
 import { config } from "./env";
-import * as cors from "cors";
+import cors from "cors";
 
 app.use(cors({ origin: "http://localhost:3000" })); 
 
