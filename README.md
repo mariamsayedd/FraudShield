@@ -33,9 +33,3 @@ FraudShield, an AI chatbot, was built at the **GDG (Google Developer Groups) Fin
 - **First-time hackers**: Learned Google AI Studio & Gemini API from scratch in 24 hours.  
 - **Balancing simplicity & accuracy**: Making AI explanations beginner-friendly without losing precision.
 
-
-## 🚀 What’s Next For FraudShield?  
-1. **Backend Integration**: Link user accounts to personalize scam alerts and savings tips.  
-2. **Arabic Support**: Serve Egypt’s Arabic-speaking majority.  
-3. **Real-Time Transaction Blocking**: Detect and stop suspicious Visa/Mastercard activity (e.g., via Nsave).
-
